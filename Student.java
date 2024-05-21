@@ -1,6 +1,6 @@
 package USER;
 public class Student extends User {
-    String matricNo = "bhu/22/04/05/0045";
+    String matricNo = "bhu/22/04/09/0045";
     String admissionNo = "12345678";
     String registerCourse() {
         if (matricNo.equals("") || admissionNo.equals("")) {
